@@ -1,0 +1,6 @@
+{
+  "name": "GB STORES UC",
+  "description": "Recharge rapide et sécurisée d'UC PUBG MOBILE au Burkina Faso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
